@@ -28,6 +28,7 @@ body {
 }
 
 main {
+  max-width: 53rem;
   padding: 3.9rem 3.8rem;
   margin-block-end: auto;
 }
@@ -72,6 +73,7 @@ button:active {
   display: flex;
   flex-direction: column;
   gap: 7rem;
+  margin-bottom: 7rem;
 }
 
 .logo {
